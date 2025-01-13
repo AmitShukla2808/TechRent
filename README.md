@@ -1,7 +1,4 @@
 # TechRent
-
-# TechRent
-
 TechRent is a comprehensive web-based platform designed to simplify the process of renting electronic devices. Whether you're looking to rent a laptop, TV, camera, Xbox, or other electronic devices, TechRent has got you covered with an intuitive and user-friendly interface.
 
 ## Features
