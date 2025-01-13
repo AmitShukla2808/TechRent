@@ -94,14 +94,6 @@ Contributions are welcome! To contribute:
    ```
 5. Create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any inquiries or support, please reach out to us at:
-- **Email:** support@techrent.com
-- **Website:** [www.techrent.com](http://www.techrent.com)
-
 ---
 Start renting smarter with TechRent!
 
